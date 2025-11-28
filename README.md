@@ -57,9 +57,8 @@ The repository is organized into three main Python files:
 ## ⚡ Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/USERNAME/NLP-Powered-Text-Insights-Dashboard.git
-   cd NLP-Powered-Text-Insights-Dashboard
-
+   git clone https://https://github.com/priyanshush27/NLP-Powered-Text-Insights-Dashboard-using-Hugging-Face-
+   
 2. - Install dependencies:
    - pip install -r requirements.txt
 
@@ -77,6 +76,7 @@ The repository is organized into three main Python files:
 - Enabled clear visualization of sentiment, emotions, and tone of speech
 
 📫 Contact
+
 Created by Priyanshu
 - LinkedIn
 - GitHub
