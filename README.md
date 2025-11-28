@@ -71,9 +71,11 @@ The repository is organized into three main Python files:
 5. - Open the local URL (usually http://localhost:8501) in your browser and start analyzing text.
 
 📊 Results
-- Improved text data quality by 30% through preprocessing
-- Delivered real-time insights with <5s latency
-- Enabled clear visualization of sentiment, emotions, and tone of speech
+- Successfully cleaned and lemmatized raw text using spaCy, ensuring consistent tokens for analysis
+- Generated word clouds and n‑gram charts that highlight frequent terms and contextual patterns
+- Delivered real‑time emotion and sentiment detection using Hugging Face models
+- Enabled tone of speech classification and text summarization directly within the Streamlit interface
+- Provided an interactive dashboard where insights are available in seconds for both text input and CSV uploads
 
 📫 Contact
 
