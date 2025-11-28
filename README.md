@@ -77,9 +77,9 @@ The repository is organized into three main Python files:
 - Enabled tone of speech classification and text summarization directly within the Streamlit interface
 - Provided an interactive dashboard where insights are available in seconds for both text input and CSV uploads
 
-📫 Contact
+##📫 Contact
 
 Created by Priyanshu
-- LinkedIn
-- GitHub
+- LinkedIn(https://www.linkedin.com/in/priyanshu-s-9b030a366/?trk=opento_sprofile_topcard)
+- GitHub(https://github.com/priyanshush27)
 
